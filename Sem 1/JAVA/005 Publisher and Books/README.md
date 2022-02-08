@@ -9,7 +9,7 @@ Enter Publisher ID   : 1
 Enter Publisher Name : AK
 Enter Book ID     : 1002
 Enter Book Name   : Java
-Enter Book Author : Amit
+Enter Book Author : Ami
 
 Publisher ID :   1
 Publisher Name : AK
